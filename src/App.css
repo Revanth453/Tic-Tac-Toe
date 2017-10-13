@@ -1,0 +1,32 @@
+
+  .menu{
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  .tile{
+    height: 130px;
+    width: 30%;
+    font-size: 50px;
+    border: 7px solid red;
+    background: yellow;
+    display:inline-block;
+    float:left;
+    text-align: center;
+    line-height: 100px;
+
+ }
+
+ .hiddden{
+   display: none;
+ }
+
+ button{
+   display:block;
+   margin: 0 auto;
+   margin-bottom: 20px;
+ }
+
+ .container{
+   margin: 0 auto;
+ }
